@@ -1,0 +1,164 @@
+{
+	"students": [
+		{
+			"id": 1,
+			"name": "Anthia",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				90,
+				45,
+				94
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 2,
+			"name": "Dawn",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				70,
+				61,
+				91
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 3,
+			"name": "Lily",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				66,
+				86,
+				66
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 4,
+			"name": "Ira",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				52,
+				45,
+				82
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 5,
+			"name": "Estell",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				65,
+				44,
+				84
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 6,
+			"name": "Sonni",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				90,
+				51,
+				49
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 7,
+			"name": "Eadie",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				75,
+				54,
+				82
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 8,
+			"name": "Elie",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				80,
+				61,
+				37
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 9,
+			"name": "Claudina",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				88,
+				50,
+				92
+			],
+			"total": 0,
+			"percentage": 0
+		},
+		{
+			"id": 10,
+			"name": "Di",
+			"subjects": [
+				"english",
+				"math",
+				"science"
+			],
+			"marks": [
+				39,
+				61,
+				49
+			],
+			"total": 0,
+			"percentage": 0
+		}
+	]
+}
